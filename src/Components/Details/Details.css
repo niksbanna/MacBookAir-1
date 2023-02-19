@@ -1,0 +1,23 @@
+.contents {
+  margin-top: 3rem;
+  gap: 20px;
+}
+.treatment-section {
+  padding: 1.2rem;
+  background-color: #f8f8f8;
+  margin-bottom: 1rem;
+}
+.treatment-info-bar {
+  display: flex;
+  justify-content: space-between;
+}
+.left-info {
+  padding: 0.5rem 0.8rem;
+}
+.right-info {
+  padding: 0.5rem 0.8rem;
+  background-color: #fff;
+}
+.treatment-details {
+  padding: 1.3rem 0.8rem;
+}

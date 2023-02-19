@@ -1,0 +1,18 @@
+.content {
+  width: 100%;
+}
+#content {
+  width: 12rem;
+  border-bottom: 1px solid #c6c6c6;
+}
+.content p:first-child {
+  font-size: 0.8rem;
+  font-weight: 400;
+  margin-bottom: 0.6rem;
+  white-space: nowrap;
+  width: 100%;
+}
+.content p:last-child {
+  font-size: 1rem;
+  font-weight: 400;
+}

@@ -1,0 +1,15 @@
+.menu-button {
+  align-items: center;
+  background-color: #f8f8f8;
+  border: none;
+  padding: 0.4rem 1.6rem;
+  border-radius: 0.1rem;
+}
+.active-button {
+  align-items: center;
+  background-color: #ffffff;
+  color: #4469ba;
+  border: none;
+  padding: 0.4rem 1.6rem;
+  border-radius: 0.1rem;
+}

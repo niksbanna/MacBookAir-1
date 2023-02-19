@@ -1,0 +1,14 @@
+.items {
+  text-align: center;
+  background-color: #fff;
+  border-right: 0.7px solid #c6c6c6;
+}
+.nav-icons {
+  width: 20px;
+  height: 20px;
+}
+.nav-caption {
+  color: #c6c6c6;
+  font-size: 14px;
+  text-transform: capitalize;
+}
