@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MacBookAir-1/static/css/main.d5a8bedc.css",
+    "main.js": "/MacBookAir-1/static/js/main.3addb3ea.js",
+    "static/media/user.jpg": "/MacBookAir-1/static/media/user.d10b51d2ea9fdd7093b8.jpg",
+    "index.html": "/MacBookAir-1/index.html",
+    "main.d5a8bedc.css.map": "/MacBookAir-1/static/css/main.d5a8bedc.css.map",
+    "main.3addb3ea.js.map": "/MacBookAir-1/static/js/main.3addb3ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a8bedc.css",
+    "static/js/main.3addb3ea.js"
+  ]
+}
